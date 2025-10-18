@@ -27,22 +27,20 @@ Questo progetto permette di:
 
 ## 📦 Installazione
 
-### 1. Clona il repository o scarica i file
+### 1. Clona il repository
 
 ```bash
 git clone <url-repository>
 cd netflix-streamlit-sql-explorer
 ```
 
+Il file `netflix_titles.csv` è già incluso nel repository.
+
 ### 2. Installa le dipendenze
 
 ```bash
 pip install streamlit pandas matplotlib
 ```
-
-### 3. Prepara il dataset
-
-Scarica il file `netflix_titles.csv` da [Kaggle - Netflix Shows](https://www.kaggle.com/shivamb/netflix-shows) e posizionalo nella directory del progetto.
 
 ---
 
@@ -226,6 +224,12 @@ pip install streamlit pandas matplotlib
 ## 📝 Licenza
 
 Questo progetto è rilasciato sotto licenza MIT. Il dataset Netflix è proprietà di Kaggle/Netflix.
+
+---
+
+## 👨‍💻 Autore
+
+Progetto didattico per imparare SQL, Streamlit e data visualization.
 
 ---
 
